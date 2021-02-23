@@ -29,19 +29,3 @@ Software
 **Carpeta Docs**
 
 
-#  Unidad 2
-
-**Carpeta Blog**
-**Carpeta Docs**
-
-
-#  Unidad 3
-
-**Carpeta Blog**
-**Carpeta Docs**
-
-
-#  Unidad 4
-
-**Carpeta Blog**
-**Carpeta Docs**
