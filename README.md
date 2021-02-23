@@ -1,8 +1,8 @@
 # Analisis-Avanzado-de-Software-Mancilla-Mora
 
 
-![Logo](img/Logotec.jpg)
-![LogoS](img/LogoSistemas.png)
+![Logo](img/logoITT.jpg)
+![LogoS](img/logoTIC.png)
 
 #  Información #
 
