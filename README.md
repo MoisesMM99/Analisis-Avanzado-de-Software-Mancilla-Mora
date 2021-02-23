@@ -23,25 +23,25 @@ Software
 
 #  Unidad 1
 
-** Carpeta Blog**
+**Carpeta Blog**
 * [C0.1 Integrar equipos](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C0.1_IntegrarEquiposdeTrabajo_MancillaMoraMoises.md)
   
-** Carpeta Docs**
+**Carpeta Docs**
 
 
 #  Unidad 2
 
-** Carpeta Blog**
-** Carpeta Docs**
+**Carpeta Blog**
+**Carpeta Docs**
 
 
 #  Unidad 3
 
-** Carpeta Blog**
-** Carpeta Docs**
+**Carpeta Blog**
+**Carpeta Docs**
 
 
 #  Unidad 4
 
-** Carpeta Blog**
-** Carpeta Docs**
+**Carpeta Blog**
+**Carpeta Docs**
