@@ -6,20 +6,20 @@
 
 #  Información #
 
-**Nombre Del alumno:** Mancilla Mora Moises
+**Nombre del alumno:** Mancilla Mora Moises
 
-**Numero de control:** 17212922.
+**Número de control:** 17212922.
 
 **Carrera:** Ing. en Tecnologias de la Información y Comunicaciones.
 
-**Nombre Del equipo:** Ethereal Arts
+**Nombre del equipo:** Ethereal Arts
 
 **Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
 
 **Materia:** Analisis Avanzado de
 Software
 
-# Indice #
+# Índice #
 
 #  Unidad 1
 
