@@ -25,6 +25,7 @@ Software
 
 **Carpeta Blog**
 * [C0.1 Integrar equipos](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C0.1_IntegrarEquiposdeTrabajo_MancillaMoraMoises.md)
+* [C0.2 Tipo de Sistema de información](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C0.2%20%20Tipo%20de%20sistema%20de%20informaci%C3%B3n.md)
   
 **Carpeta Docs**
 
