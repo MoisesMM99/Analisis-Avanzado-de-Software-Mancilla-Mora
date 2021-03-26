@@ -32,8 +32,9 @@ Software
 **Carpeta Docs**
 
 #  Unidad 2
+**Carpeta Blog**
 * [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.1_ObjetivosGenerales_especificos_MancillaMoraMoises.md)
 
-**Carpeta Blog**
+
 
 
