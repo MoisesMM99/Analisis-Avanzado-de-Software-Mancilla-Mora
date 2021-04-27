@@ -37,6 +37,8 @@ Software
 * [C1.2_Acta_Constitutiva_del_proyecto](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.2_Acta_Constitutiva_del_proyecto_Mancilla_Mora_Moises.md)
 * [C1.3_Requsistos de sistema](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.3_Requsistos%20del%20sistema_Mancilla%20Mora%20Moises.md)
 * [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.4_Modelado_de_requisitos_a_trav%C3%A9s_de%20_diagramas_de_comportamiento_Mancilla_Mora_Moises.md)
+* [C1.5  Modelado de requisitos a través de diagramas estructurados
+](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.5%20%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados_MancillaMoraMoises.md)
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_MancillaMoraMoises.md)
 
 
