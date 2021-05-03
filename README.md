@@ -40,6 +40,7 @@ Software
 * [C1.5  Modelado de requisitos a través de diagramas estructurados
 ](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.5%20%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados_MancillaMoraMoises.md)
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_MancillaMoraMoises.md)
+* [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.1_UML_Requirements_Modeling_MancillaMoraMoises.md)
 
 
 
