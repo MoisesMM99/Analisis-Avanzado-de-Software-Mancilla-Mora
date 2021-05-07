@@ -39,6 +39,7 @@ Software
 * [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.4_Modelado_de_requisitos_a_trav%C3%A9s_de%20_diagramas_de_comportamiento_Mancilla_Mora_Moises.md)
 * [C1.5  Modelado de requisitos a través de diagramas estructurados
 ](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C1.5%20%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados_MancillaMoraMoises.md)
+* [C2.1 Especificación de Requerimientos Funcionales](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/C2.1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_MancillaMoraMoises.md)
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_MancillaMoraMoises.md)
 * [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.1_UML_Requirements_Modeling_MancillaMoraMoises.md)
 
