@@ -44,8 +44,8 @@ Software
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_MancillaMoraMoises.md)
 * [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A1.1_UML_Requirements_Modeling_MancillaMoraMoises.md)
 * [A2.1 Especificación de requisitos y documentación](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A2.1_MancillaMora_EtherealArts.md)
-* [ A2.2 Diseño de la arquitectura 4+1
-](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A2.2_4%2B1_architecture_desig_MancillaMoraMoises.md)
+* [ A2.2 Diseño de la arquitectura 4+1](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A2.2_4%2B1_architecture_desig_MancillaMoraMoises.md)
+* [A2.3 Patrones de arquitectura de software](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A2.3_MoisesMancillaMora_EtherealArts.md)
 
 
 
