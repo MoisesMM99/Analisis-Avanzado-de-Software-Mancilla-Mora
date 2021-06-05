@@ -47,6 +47,7 @@ Software
 * [ A2.2 Diseño de la arquitectura 4+1](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A2.2_4%2B1_architecture_desig_MancillaMoraMoises.md)
 * [A2.3 Patrones de arquitectura de software](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A2.3_MoisesMancillaMora_EtherealArts.md)
 
-
-
+#  Unidad 3
+**Carpeta Blog**
+* [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto]()
 
