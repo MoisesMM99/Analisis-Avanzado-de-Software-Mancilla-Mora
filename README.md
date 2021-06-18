@@ -50,5 +50,5 @@ Software
 #  Unidad 3
 **Carpeta Blog**
 * [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A3.1_ScrumStartPhase_MancillaMoraMoises.md)
-* [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A3.2_Initial_Phase_Artifacts_MancillaMoraMoises.md)
+* [A3.2 Fase inicio: Artefactos](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/PDF/A3.2_Initial_Phase_Artifacts_MancillaMoraMoises.md)
 
